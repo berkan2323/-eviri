@@ -1,0 +1,2 @@
+# -eviri
+Türkçe_İngilizce
