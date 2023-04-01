@@ -1,0 +1,13 @@
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\bin\Debug\çeveri_projesi.exe.config
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\bin\Debug\çeveri_projesi.exe
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\bin\Debug\çeveri_projesi.pdb
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\obj\Debug\çeveri_projesi.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\obj\Debug\çeveri_projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\obj\Debug\çeveri_projesi.Form1.resources
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\obj\Debug\çeveri_projesi.Properties.Resources.resources
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\obj\Debug\çeveri_projesi.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\obj\Debug\çeveri_projesi.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\obj\Debug\çeveri_projesi.exe
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\obj\Debug\çeveri_projesi.pdb
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\obj\Debug\çeveri_projesi.Form2.resources
+C:\Users\hp\OneDrive\Belgeler\çeveri_projesi\çeveri_projesi\obj\Debug\çeveri_projesi.Form3.resources
