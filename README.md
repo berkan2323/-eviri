@@ -1,2 +1,2 @@
-# -eviri
+# Ceviri
 Türkçe_İngilizce
